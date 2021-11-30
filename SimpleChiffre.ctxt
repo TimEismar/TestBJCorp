@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=SimpleChiffre
+comment1.params=
+comment1.target=SimpleChiffre()
+comment2.params=key\ clear
+comment2.target=void\ doS(java.lang.String,\ java.lang.String)
+comment3.params=key\ clear
+comment3.target=java.lang.String\ verschluesseln(java.lang.String,\ java.lang.String)
+comment4.params=key\ encry
+comment4.target=java.lang.String\ entschluesseln(java.lang.String,\ java.lang.String)
+comment5.params=key
+comment5.target=java.lang.String\ filler(java.lang.String)
+comment6.params=c
+comment6.target=boolean\ isVowel(char)
+numComments=7
