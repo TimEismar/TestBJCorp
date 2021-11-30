@@ -12,4 +12,6 @@ comment5.params=key
 comment5.target=java.lang.String\ filler(java.lang.String)
 comment6.params=c
 comment6.target=boolean\ isVowel(char)
-numComments=7
+comment7.params=dec\ key\ ency
+comment7.target=void\ tableOut(Queue,\ Queue,\ Queue)
+numComments=8

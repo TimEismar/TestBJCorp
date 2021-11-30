@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Charr
+comment0.text=\r\n\r\n\ @author\ Thedath\ Oudarya\r\n
+comment1.params=x\ y\ c
+comment1.target=Charr(int,\ int,\ char)
+comment2.params=
+comment2.target=int\ getX()
+comment3.params=
+comment3.target=int\ getY()
+comment4.params=
+comment4.target=char\ getC()
+numComments=5
